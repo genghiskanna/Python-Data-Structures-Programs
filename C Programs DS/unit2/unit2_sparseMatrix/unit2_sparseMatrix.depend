@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1419628315 source:f:\c programs ds\unit2\unit2_sparsematrix\main.c
+	<stdio.h>
+	<stdlib.h>
+

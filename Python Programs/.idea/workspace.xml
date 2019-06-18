@@ -1,0 +1,616 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e23908d3-81d0-44e1-a186-d05eb46e109d" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Python_Programs$main__4_.coverage" NAME="main (4) Coverage Results" MODIFIED="1518289784223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit3/unit3_InsertArrayBST" />
+    <SUITE FILE_PATH="coverage/Python_Programs$main__5_.coverage" NAME="main (5) Coverage Results" MODIFIED="1518289768799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit5/unit5_InsertionSort" />
+    <SUITE FILE_PATH="coverage/Python_Programs$InsertArrayBST.coverage" NAME="InsertArrayBST Coverage Results" MODIFIED="1518358080356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit3" />
+    <SUITE FILE_PATH="coverage/Python_Programs$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1518289752599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit3/unit3_Dijikstras" />
+    <SUITE FILE_PATH="coverage/Python_Programs$main__3_.coverage" NAME="main (3) Coverage Results" MODIFIED="1518285504324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit5/unit5_SelectionSort" />
+    <SUITE FILE_PATH="coverage/Python_Programs$main.coverage" NAME="main Coverage Results" MODIFIED="1518289761657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit3/unit3_DFS" />
+    <SUITE FILE_PATH="coverage/Python_Programs$Dijikstras.coverage" NAME="Dijikstras Coverage Results" MODIFIED="1518373831095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit3" />
+    <SUITE FILE_PATH="coverage/Python_Programs$AVL.coverage" NAME="AVL Coverage Results" MODIFIED="1519028028961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit4" />
+    <SUITE FILE_PATH="coverage/Python_Programs$Indexing.coverage" NAME="Indexing Coverage Results" MODIFIED="1519039649724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit4" />
+    <SUITE FILE_PATH="coverage/Python_Programs$InsertLinkedListBST.coverage" NAME="InsertLinkedListBST Coverage Results" MODIFIED="1518357590978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit3" />
+    <SUITE FILE_PATH="coverage/Python_Programs$Prims.coverage" NAME="Prims Coverage Results" MODIFIED="1518373623090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit3" />
+    <SUITE FILE_PATH="coverage/Python_Programs$Preorder.coverage" NAME="Preorder Coverage Results" MODIFIED="1518336928520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit3" />
+    <SUITE FILE_PATH="coverage/Python_Programs$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1518289624686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit3/unit3_Kruskals" />
+    <SUITE FILE_PATH="coverage/Python_Programs$TopologicalSort.coverage" NAME="TopologicalSort Coverage Results" MODIFIED="1518370297093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit3" />
+    <SUITE FILE_PATH="coverage/Python_Programs$RBT.coverage" NAME="RBT Coverage Results" MODIFIED="1518979182842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit4" />
+    <SUITE FILE_PATH="coverage/Python_Programs$SearchBST.coverage" NAME="SearchBST Coverage Results" MODIFIED="1518358228741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit3" />
+    <SUITE FILE_PATH="coverage/Python_Programs$Heap.coverage" NAME="Heap Coverage Results" MODIFIED="1519039188085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit4" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Heap.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/unit4/Heap.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1053">
+              <caret line="39" column="12" lean-forward="false" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RBT.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/unit4/RBT.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2133">
+              <caret line="79" column="25" lean-forward="false" selection-start-line="79" selection-start-column="25" selection-end-line="79" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Indexing.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/unit4/Indexing.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BinarySearch.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/unit1/BinarySearch.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-161">
+              <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AVL.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/unit4/AVL.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5427">
+              <caret line="201" column="21" lean-forward="false" selection-start-line="201" selection-start-column="21" selection-end-line="201" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>left</find>
+      <find>}</find>
+      <find>start_Row</find>
+      <find>createRowHeader</find>
+      <find>temp</find>
+      <find>;</find>
+      <find>{</find>
+      <find>||</find>
+      <find>//</find>
+      <find>cost[i][j]</find>
+      <find>cost</find>
+      <find>NULL</find>
+      <find>if\(.*[a-z].*\)</find>
+      <find>printf</find>
+      <find>if \(.*[a-z]\)</find>
+      <find>case</find>
+      <find>LeftRotate</find>
+      <find>enter</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>colNum</replace>
+      <replace>or</replace>
+      <replace>#</replace>
+      <replace>None</replace>
+      <replace>if\(.*[a-z].*\):</replace>
+      <replace>key = int(input(&quot;Enter the key value:&quot;))</replace>
+      <replace>if choice ==</replace>
+      <replace>print</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/unit2/unit2_arrayDeletion/main.py" />
+        <option value="$PROJECT_DIR$/unit2/unit2_arrayInsertion/main.py" />
+        <option value="$PROJECT_DIR$/unit2/unit2_CircularQueueArray/main.py" />
+        <option value="$PROJECT_DIR$/unit2/unit2_Deletion LinkedList/main.py" />
+        <option value="$PROJECT_DIR$/unit2/unit2_DeletiondoublyLinkedList/main.py" />
+        <option value="$PROJECT_DIR$/unit2/unit2_DeletionSingly LinkedList/main.py" />
+        <option value="$PROJECT_DIR$/unit2/unit2_DequeueArray/main.py" />
+        <option value="$PROJECT_DIR$/unit2/unit2_InsertionDoublyLinkedList/main.py" />
+        <option value="$PROJECT_DIR$/unit2/unit2_InsertionSinglyLinkedList/main.py" />
+        <option value="$PROJECT_DIR$/unit2/unit2_MatrixMultiplication/main.py" />
+        <option value="$PROJECT_DIR$/unit2/unit2_MatrixAddition/main.py" />
+        <option value="$PROJECT_DIR$/unit2/unit2_InfixtoPostfix/main.py" />
+        <option value="$PROJECT_DIR$/unit2/unit2_PolynomialAddition/main.py" />
+        <option value="$PROJECT_DIR$/unit2/unit2_PostfixEvaluation/main.py" />
+        <option value="$PROJECT_DIR$/unit2/unit2_QueueArray/main.py" />
+        <option value="$PROJECT_DIR$/unit2/unit2_QueueLinkedList/main.py" />
+        <option value="$PROJECT_DIR$/unit2/unit2_sparseMatrix/main.py" />
+        <option value="$PROJECT_DIR$/unit2/unit2_StackArray/main.py" />
+        <option value="$PROJECT_DIR$/unit2/unit2_StackLinkedList/main.py" />
+        <option value="$PROJECT_DIR$/unit2/unit2_TraversalLinkedList/main.py" />
+        <option value="$PROJECT_DIR$/unit3/unit3_Dijikstras/main.py" />
+        <option value="$PROJECT_DIR$/unit3/unit3_FloydWarshals/main.py" />
+        <option value="$PROJECT_DIR$/unit3/unit3_ExpressionTree/main.py" />
+        <option value="$PROJECT_DIR$/unit3/unit3_InsertArrayBST/main.py" />
+        <option value="$PROJECT_DIR$/unit5/unit5_InsertionSort/main.py" />
+        <option value="$PROJECT_DIR$/unit5/unit5_MergeSort/main.py" />
+        <option value="$PROJECT_DIR$/unit5/unit5_QuickSort/main.py" />
+        <option value="$PROJECT_DIR$/unit5/unit5_SelectionSort/main.py" />
+        <option value="$PROJECT_DIR$/unit5/unit5_shellSort/main.py" />
+        <option value="$PROJECT_DIR$/unit5/unit5_RadixSort/main.py" />
+        <option value="$PROJECT_DIR$/unit3/unit3_BFSTraversal/main.py" />
+        <option value="$PROJECT_DIR$/unit3/unit3_DFS/main.py" />
+        <option value="$PROJECT_DIR$/unit3/unit3_Kruskals/main.py" />
+        <option value="$PROJECT_DIR$/unit3/Preorder.py" />
+        <option value="$PROJECT_DIR$/unit3/InsertLinkedListBST.py" />
+        <option value="$PROJECT_DIR$/unit3/InsertArrayBST.py" />
+        <option value="$PROJECT_DIR$/unit3/SearchBST.py" />
+        <option value="$PROJECT_DIR$/unit3/TopologicalSort.py" />
+        <option value="$PROJECT_DIR$/unit3/Prims.py" />
+        <option value="$PROJECT_DIR$/unit3/Dijikstras.py" />
+        <option value="$PROJECT_DIR$/unit4/RBT.py" />
+        <option value="$PROJECT_DIR$/unit4/AVL.py" />
+        <option value="$PROJECT_DIR$/unit4/Heap.py" />
+        <option value="$PROJECT_DIR$/unit4/Indexing.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyCompatibilityInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Python Programs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python Programs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python Programs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python Programs" type="462c0819:PsiDirectoryNode" />
+              <item name="unit1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python Programs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python Programs" type="462c0819:PsiDirectoryNode" />
+              <item name="unit2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python Programs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python Programs" type="462c0819:PsiDirectoryNode" />
+              <item name="unit3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python Programs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python Programs" type="462c0819:PsiDirectoryNode" />
+              <item name="unit4" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Indexing">
+    <configuration name="AVL" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unit4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python Programs" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unit4/AVL.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Dijikstras" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unit3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python Programs" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unit3/Dijikstras.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Heap" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unit4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python Programs" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unit4/Heap.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Indexing" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unit4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python Programs" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unit4/Indexing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="RBT" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unit4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python Programs" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unit4/RBT.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.Dijikstras" />
+      <item index="1" class="java.lang.String" itemvalue="Python.RBT" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Indexing" />
+      <item index="3" class="java.lang.String" itemvalue="Python.AVL" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Heap" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.Indexing" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Heap" />
+        <item index="2" class="java.lang.String" itemvalue="Python.AVL" />
+        <item index="3" class="java.lang.String" itemvalue="Python.RBT" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Dijikstras" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e23908d3-81d0-44e1-a186-d05eb46e109d" name="Default" comment="" />
+      <created>1516510162540</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1516510162540</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933334" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933334" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/unit2/unit2_QueueLinkedList/main.py" />
+    <entry file="file://$PROJECT_DIR$/unit2/unit2_Deletion LinkedList/main.py" />
+    <entry file="file://$PROJECT_DIR$/unit2/unit2_sparseMatrix/main.py" />
+    <entry file="file://$PROJECT_DIR$/unit2/unit2_StackArray/main.py" />
+    <entry file="file://$PROJECT_DIR$/unit2/unit2_StackLinkedList/main.py" />
+    <entry file="file://$PROJECT_DIR$/unit2/unit2_InsertionSinglyLinkedList/main.py" />
+    <entry file="file://$PROJECT_DIR$/unit2/unit2_TraversalLinkedList/main.py" />
+    <entry file="file://$PROJECT_DIR$/unit5/unit5_InsertionSort/main.c" />
+    <entry file="file://$PROJECT_DIR$/unit5/unit5_QuickSort/main.c" />
+    <entry file="file://$PROJECT_DIR$/unit4/unit4_RBT/main.c" />
+    <entry file="file://$PROJECT_DIR$/unit5/unit5_InsertionSort/main.py" />
+    <entry file="file://$PROJECT_DIR$/unit5/unit5_MergeSort/main.py" />
+    <entry file="file://$PROJECT_DIR$/unit5/unit5_QuickSort/main.py" />
+    <entry file="file://$PROJECT_DIR$/unit5/unit5_SelectionSort/main.py" />
+    <entry file="file://$PROJECT_DIR$/unit5/unit5_shellSort/main.py" />
+    <entry file="file://$PROJECT_DIR$/unit4/unit4_Indexing/main.c" />
+    <entry file="file://$PROJECT_DIR$/unit5/unit5_RadixSort/main.py" />
+    <entry file="file://$PROJECT_DIR$/unit3/unit3_FloydWarshals/main.py" />
+    <entry file="file://$PROJECT_DIR$/unit3/unit3_ExpressionTree/main.py" />
+    <entry file="file://$PROJECT_DIR$/unit3/Unit3_InsertLinkedListBST/main.py" />
+    <entry file="file://$PROJECT_DIR$/unit3/unit3_Dijikstras/main.py" />
+    <entry file="file://$PROJECT_DIR$/unit3/unit3_BFSTraversal/main.py" />
+    <entry file="file://$PROJECT_DIR$/unit3/unit3_DFS/main.py" />
+    <entry file="file://$PROJECT_DIR$/unit3/unit3_Kruskals/main.py" />
+    <entry file="file://$PROJECT_DIR$/unit3/unit3_InsertArrayBST/main.py" />
+    <entry file="file://$PROJECT_DIR$/unit3/unit3_OperationsArrayBST/main.py" />
+    <entry file="file://$PROJECT_DIR$/unit3/Unit3_OperationsLinkedListBST/main.py" />
+    <entry file="file://$PROJECT_DIR$/unit3/unit3_Preorder/main.py" />
+    <entry file="file://$PROJECT_DIR$/unit3/unit3_Prims/main.py" />
+    <entry file="file://$PROJECT_DIR$/unit3/unit3_SearchBST/main.py" />
+    <entry file="file://$PROJECT_DIR$/unit4/unit4_Heap/main.c" />
+    <entry file="file://$PROJECT_DIR$/unit3/OperationsArrayBST.py" />
+    <entry file="file://$PROJECT_DIR$/unit3/OperationsLinkedListBST.py" />
+    <entry file="file://$PROJECT_DIR$/unit3/BFSTraversal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unit3/DFS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unit3/Preorder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unit3/InsertLinkedListBST.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="13" column="24" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="101" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unit3/InsertArrayBST.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unit3/ExpressionTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unit3/FloydWarshals.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-613">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unit3/SearchBST.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="75" column="16" lean-forward="true" selection-start-line="75" selection-start-column="16" selection-end-line="75" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unit3/TopologicalSort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="44" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unit3/Kruskals.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="29" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unit3/Dijikstras.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unit4/RBTDeletion.py" />
+    <entry file="file://$PROJECT_DIR$/unit3/Prims.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="831">
+          <caret line="31" column="32" lean-forward="true" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unit4/Heap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1053">
+          <caret line="39" column="12" lean-forward="false" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unit4/AVL.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5427">
+          <caret line="201" column="21" lean-forward="false" selection-start-line="201" selection-start-column="21" selection-end-line="201" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unit4/RBT.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2133">
+          <caret line="79" column="25" lean-forward="false" selection-start-line="79" selection-start-column="25" selection-end-line="79" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unit4/Indexing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unit1/BinarySearch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-161">
+          <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

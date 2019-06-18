@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1419334258 source:e:\data structures\unit3\unit3_expressiontree\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<malloc.h>
+

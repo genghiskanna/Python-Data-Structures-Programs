@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1419304209 source:e:\data structures\unit3_dfs\main.c
+	<stdio.h>
+	<conio.h>
+
+1419305523 source:e:\data structures\unit3\unit3_dfs\main.c
+	<stdio.h>
+	<stdlib.h>
+
